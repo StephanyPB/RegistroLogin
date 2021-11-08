@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:RegistroLogin.UI.Registros"
         xmlns:System="clr-namespace:System;assembly=mscorlib"
         mc:Ignorable="d"
-        Title="Registro Usuarios" Height="250" Width="420">
+        Title="Registro Usuarios" Height="250" Width="450">
     <Grid>
         <StackPanel Orientation="Vertical">
 

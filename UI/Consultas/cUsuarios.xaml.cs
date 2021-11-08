@@ -32,7 +32,7 @@ namespace RegistroLogin.UI.Consultas
 
             if (CriterioTextBox.Text.Trim().Length > 0)
             {
-                switch (FiltroComboBox.SelectedIndex)//LISTO a
+                switch (FiltroComboBox.SelectedIndex)
                 {
                     case 0: //UsuarioId
                         int.TryParse(CriterioTextBox.Text, out int UsuarioId);
